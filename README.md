@@ -21,7 +21,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 - email：2511640401 [at] tiangong.edu.cn
 - GitHub: [Wang-yifan666](https://github.com/Wang-yifan666)
@@ -29,15 +29,15 @@
 
 ---
 
-## 🎲 Daily Luck
+## Daily Luck
 
 <!-- DAILY-LUCK:START -->
-今日运势：**大凶**
+今日运势：**小吉**
 
-宜：疯狂星期四、散步  
-忌：整理博客  
-幸运数字：**74**
+宜：刷算法题、学习新知识、摸鱼
+忌：读技术文档、不写注释
+幸运数字：**70**
 
-更新日期：`2026-05-07`
+更新日期：`2026-05-11`
 <!-- DAILY-LUCK:END -->
 
